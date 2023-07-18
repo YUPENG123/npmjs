@@ -2,4 +2,6 @@
 
 node-windows-x64
 
-NodeGui
+NodeGui   nodegui qt desktop
+
+
