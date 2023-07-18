@@ -2,6 +2,6 @@
 
 node-windows-x64
 
-NodeGui   nodegui qt desktop
+@nodegui/nodegui  NodeGui   nodegui qt desktop
 
 
